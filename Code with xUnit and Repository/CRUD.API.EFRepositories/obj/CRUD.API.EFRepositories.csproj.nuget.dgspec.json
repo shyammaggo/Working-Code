@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.EFRepositories\\CRUD.API.EFRepositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj",
+        "projectName": "CRUD.API.Domain",
+        "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj",
+        "packagesPath": "C:\\Users\\SMaggo\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SMaggo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ccg-appbuild:8080/guestAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.EFRepositories\\CRUD.API.EFRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.EFRepositories\\CRUD.API.EFRepositories.csproj",
+        "projectName": "CRUD.API.EFRepositories",
+        "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.EFRepositories\\CRUD.API.EFRepositories.csproj",
+        "packagesPath": "C:\\Users\\SMaggo\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.EFRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SMaggo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ccg-appbuild:8080/guestAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj": {
+                "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj"
+              },
+              "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\CRUD.API.Repositories.csproj": {
+                "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\CRUD.API.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\CRUD.API.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\CRUD.API.Repositories.csproj",
+        "projectName": "CRUD.API.Repositories",
+        "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\CRUD.API.Repositories.csproj",
+        "packagesPath": "C:\\Users\\SMaggo\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SMaggo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ccg-appbuild:8080/guestAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj": {
+                "projectPath": "C:\\Personal\\New August 2020 search\\Code with xUnit and Repository\\CRUD.API.Domain\\CRUD.API.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

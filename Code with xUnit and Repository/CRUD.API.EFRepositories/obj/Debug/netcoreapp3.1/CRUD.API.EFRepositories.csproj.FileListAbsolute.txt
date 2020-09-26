@@ -1,0 +1,28 @@
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.deps.json
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.pdb
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Repositories.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Repositories.pdb
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csprojAssemblyReference.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.AssemblyInfoInputs.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.AssemblyInfo.cs
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csproj.CoreCompileInputs.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csproj.CopyComplete
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.deps.json
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.EFRepositories.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Repositories.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\bin\Debug\netcoreapp3.1\CRUD.API.Repositories.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csprojAssemblyReference.cache
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.AssemblyInfoInputs.cache
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.AssemblyInfo.cs
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csproj.CoreCompileInputs.cache
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.csproj.CopyComplete
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.EFRepositories\obj\Debug\netcoreapp3.1\CRUD.API.EFRepositories.pdb

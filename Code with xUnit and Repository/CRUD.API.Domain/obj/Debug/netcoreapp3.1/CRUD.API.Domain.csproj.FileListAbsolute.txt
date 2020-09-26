@@ -1,0 +1,18 @@
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.deps.json
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csprojAssemblyReference.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfoInputs.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfo.cs
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csproj.CoreCompileInputs.cache
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Sample Code with xUnit\archive\Code with xUnit and Repository to 1 level\Code with xUnit and Repository to 1 level\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.deps.json
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\bin\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfoInputs.cache
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.AssemblyInfo.cs
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csproj.CoreCompileInputs.cache
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.dll
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.pdb
+C:\Personal\New August 2020 search\Code with xUnit and Repository\CRUD.API.Domain\obj\Debug\netcoreapp3.1\CRUD.API.Domain.csprojAssemblyReference.cache
